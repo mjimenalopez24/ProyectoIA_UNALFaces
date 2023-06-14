@@ -1,4 +1,8 @@
-# ProyectoIA_UNALFaces
+# Proyecto IA UNALFaces
+
+**Reconocimiento Facial en la asistencia a actividades académicas y culturales de la Universidad Nacional de Colombia**
+
+La incorporación del sistema de reconocimiento facial ayudaría a una recolección automática de datos y permitiría apoyar la planeación de futuras actividades. Este proyecto presenta un acercamiento a este objetivo, el cual es relevante para la comunidad universitaria, sin embargo, puede tener muchas otras aplicaciones.
 
 ## Modelos
 
@@ -12,4 +16,10 @@ El archivo Api_Rec_Facial_Vivo.ipynb contine el código para realizar el reconoc
 Cabe resaltar que para ejecutar nuevamente el código es necesario establecer correctamente los directorios con las imagenes que se desean utilizar.
 
 La base de datos utilizada fue obtenida de la plataforma [kaggle](https://www.kaggle.com/competitions/11-785-s23-hw2p2-classification/overview).
+
+## Desarrollado por:
+
+- Danna Gabriela Bustacara Rodríguez, dbustacara@unal.edu.co
+- Maria Jimena López Munevar, malopezmu@unal.edu.co
+- Kevin Andrés Leal Pérez, klealp@unal.edu.co
 
